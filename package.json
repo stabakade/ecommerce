@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Node Server for MERN stack application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stabakade/ecommerce.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stabakade/ecommerce/issues"
+  },
+  "homepage": "https://github.com/stabakade/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
